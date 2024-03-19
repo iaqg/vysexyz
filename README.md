@@ -1,4 +1,4 @@
-- 👋 @vysexyz
+· 👋 @vysexyz
 
 · ⚙️ Knowish: JavaScript
 · 🛠️ Expert: Python, DiscordJS
